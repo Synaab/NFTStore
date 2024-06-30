@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <header className="container overflow-hidden mt-5 mx-auto pl-4 min-h-[52.5rem]  bg-[url('./assets/svg/header__img.svg')] bg-no-repeat bg-cover bg-center">
+      <header className="container overflow-hidden mt-5 mx-auto pl-4 min-h-[52.5rem]  bg-[url('.\assets\svg\header__img.svg')] bg-no-repeat bg-cover bg-center">
         <div className="xl:xlcontainer text-white mx-auto px-4 p-1 ">
           <section className=" flex justify-between items-center gap-10 mt-8">
             <div className=" gap-2 flex">
